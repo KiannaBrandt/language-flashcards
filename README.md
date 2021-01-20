@@ -22,8 +22,8 @@ Take a look at the issues tab in this repository.  You will see the wire frame f
 
 1. Once your pull request is approved do the following:
 
-    - `git checkout master`
-    - `git pull origin master`
+    - `git checkout main`
+    - `git pull origin main`
 
 1. Then continue the work flow from the issues portion till the application is completed.
 
