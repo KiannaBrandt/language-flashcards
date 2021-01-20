@@ -1,8 +1,9 @@
 // Do not write any code here
 
 var data = {
+  isInTestMode: false,
   cardId: 4,
-  products: [
+  cards: [
     {
       id: 1,
       question: 'dónde está la biblioteca',
@@ -18,5 +19,6 @@ var data = {
       question: 'Yo no comprendo',
       answer: 'I do not understand'
     }
-  ]
+  ],
+  testing: []
 }
