@@ -1,0 +1,37 @@
+body {
+  font-family: 'Karla', sans-serif;
+  background-color: rgb(226, 223, 246);
+  margin: 0;
+}
+
+header {
+  background-color: rgb(140, 128, 219);
+  margin: 0;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+h2 {
+  color: white;
+  flex-grow: 2;
+  margin: 1em;
+}
+
+div > button {
+  width: 6em;
+  height: 2.5em;
+  background-color: rgb(226, 223, 246);
+  border: none;
+  border-radius: 0.3em;
+  box-shadow: 2px 2px 3px black;
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+  margin: 1em;
+}
+
+h1 {
+  margin: 1em;
+}
